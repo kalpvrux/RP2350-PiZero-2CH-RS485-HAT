@@ -1,0 +1,7 @@
+# Build artifacts
+RP2350/build/
+.cache/
+RP2350/.cache/
+
+# VSCode settings (often project-specific, keeping them as per user's RP2350/.gitignore)
+#!.vscode/
